@@ -1,0 +1,19 @@
+{
+  "name": "e-commerce-website-react-express-mongodb-",
+  "version": "1.0.0",
+  "description": "ecommerce website rest api mongodb react express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "server": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Jatin Parashar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
